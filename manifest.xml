@@ -5,7 +5,10 @@
 	<version>1.0</version>
 	<category>content</category>
 	<blurb>Post and comment on group announcements.</blurb>
-	<description>Adds the ability for groups to post announcements to all their members.  Group members can then comment on the announcements.</description>
+	<description>
+		Adds the ability for groups to post announcements to all their members.  
+		Group members get the announcements in their inbox and can comment on the announcements.
+	</description>
 	<website>http://github.com/ewinslow/elgg-announcements</website>
 	<copyright>(C) Evan Winslow 2011</copyright>
 	<license>GNU Public License version 2</license>
